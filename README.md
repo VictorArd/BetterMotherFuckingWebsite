@@ -1,0 +1,1 @@
+La version 1 de BetterMotherFuckingWebsite est en ligne ici: https://victorard.github.io/BetterMotherFuckingWebsite/
