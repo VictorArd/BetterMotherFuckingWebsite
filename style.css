@@ -5,9 +5,14 @@ padding: 0 10px;
 max-width: 650px;
 text-align: justify;
 font-size: 18px;
-color:•444;
+color:#444;
 }
 
 h1, h2, h3{
 line-height:1.6;
+}
+
+.psybackgroundbody {
+background-color: #FF00FF;
+color: blue;
 }
